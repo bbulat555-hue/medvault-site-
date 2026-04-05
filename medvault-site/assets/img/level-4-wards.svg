@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#18273a"/>
+    <stop offset="100%" stop-color="#081018"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#7ee4ff"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05"/>
+  </linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<g opacity="0.08">
+  <path d="M0 140H1600M0 300H1600M0 460H1600M0 620H1600M0 780H1600" stroke="#ffffff"/>
+  <path d="M140 0V900M340 0V900M540 0V900M740 0V900M940 0V900M1140 0V900M1340 0V900" stroke="#ffffff"/>
+</g>
+<rect x="80" y="80" width="1440" height="740" rx="28" fill="#0c1622" stroke="#7ee4ff" stroke-opacity="0.35"/>
+<rect x="120" y="120" width="860" height="420" rx="24" fill="#0b1220" stroke="#ffffff" stroke-opacity="0.08"/>
+<rect x="1020" y="120" width="460" height="420" rx="24" fill="#0d1420" stroke="#ffffff" stroke-opacity="0.08"/>
+<rect x="120" y="580" width="1360" height="180" rx="24" fill="#0b1220" stroke="#ffffff" stroke-opacity="0.08"/>
+<path d="M170 190H930" stroke="url(#line)" stroke-width="4"/>
+<text x="170" y="250" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="700">Уровень -4</text>
+<text x="170" y="320" fill="#7ee4ff" font-family="Inter, Arial, sans-serif" font-size="26" letter-spacing="4">Палаты</text>
+<text x="170" y="640" fill="#d7e8f7" font-family="Inter, Arial, sans-serif" font-size="28">Комфорт • микроклимат • восстановление</text>
+<g opacity="0.9">
+  <rect x="1070" y="170" width="360" height="70" rx="14" fill="#0f1f2e" stroke="#7ee4ff" stroke-opacity="0.4"/>
+  <rect x="1070" y="270" width="250" height="180" rx="16" fill="#122032"/>
+  <rect x="1340" y="270" width="90" height="180" rx="16" fill="#122032"/>
+  <circle cx="1210" cy="360" r="64" fill="none" stroke="#7ee4ff" stroke-width="10" stroke-opacity="0.8"/>
+  <path d="M1110 210H1360" stroke="#d7e8f7" stroke-opacity="0.5" stroke-width="3"/>
+  <path d="M170 390H610" stroke="#d7e8f7" stroke-opacity="0.3" stroke-width="3"/>
+  <path d="M170 430H760" stroke="#d7e8f7" stroke-opacity="0.18" stroke-width="3"/>
+  <path d="M170 470H680" stroke="#d7e8f7" stroke-opacity="0.18" stroke-width="3"/>
+</g>
+</svg>
