@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#132536"/><stop offset="100%" stop-color="#091018"/></linearGradient></defs>
+<rect width="1000" height="700" fill="url(#g)"/>
+<rect x="60" y="60" width="880" height="580" rx="28" fill="#0c1622" stroke="#00d1ff" stroke-opacity="0.35"/>
+<circle cx="260" cy="250" r="80" fill="#111e2f" stroke="#00d1ff" stroke-opacity="0.7" stroke-width="6"/>
+<rect x="180" y="350" width="160" height="170" rx="30" fill="#122234" stroke="#ffffff" stroke-opacity="0.08"/>
+<rect x="380" y="150" width="460" height="90" rx="18" fill="#0f1b2a" stroke="#ffffff" stroke-opacity="0.08"/>
+<rect x="380" y="280" width="400" height="160" rx="18" fill="#0f1b2a" stroke="#ffffff" stroke-opacity="0.08"/>
+<path d="M420 200H760" stroke="#00d1ff" stroke-width="4" stroke-opacity="0.8"/>
+<text x="420" y="185" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="700">Клинический персонал</text>
+<text x="420" y="360" fill="#cfe3f6" font-family="Inter, Arial, sans-serif" font-size="26">Диагностика • лечение • контроль сложных случаев</text>
+<path d="M420 410H710" stroke="#d7e8f7" stroke-opacity="0.25" stroke-width="3"/>
+<path d="M420 450H640" stroke="#d7e8f7" stroke-opacity="0.18" stroke-width="3"/>
+</svg>
